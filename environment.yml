@@ -1,0 +1,9 @@
+name: data-science
+channels:
+  - pypi
+dependencies:
+  - python=3.13.5
+  - pandas
+  - numpy
+  - pip
+  
