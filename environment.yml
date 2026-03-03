@@ -1,8 +1,15 @@
 name: data-science
 channels:
   - conda-forge
+  - defaults
+
 dependencies:
   - python=3.11
-  - numpy
+  - numpy<2
   - pandas
   - jupyterlab
+  - plotly<6
+  - pip
+  - pip:
+      - cufflinks==0.17.3
+      - narwhals
