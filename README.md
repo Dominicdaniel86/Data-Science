@@ -52,7 +52,7 @@ conda deactivate
 Whenever you update your Anaconda environment using `pip` commands like this:
 
 ```bash
-pip install numpy
+conda install numpy
 ```
 
 make sure to also add the dependency to the `environment.yml` file. This ensures a consistent environment for all other project members.
