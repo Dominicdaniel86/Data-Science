@@ -218,3 +218,6 @@ __marimo__/
 # Excel and comma separated values files
 *.csv
 *.xlsx
+
+# Homework-related .ipynb files
+*homework*.ipynb

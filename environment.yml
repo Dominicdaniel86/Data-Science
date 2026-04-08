@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - jupyterlab
   - plotly<6
+  - matplotlib
   - pip
   - pip:
       - cufflinks==0.17.3
