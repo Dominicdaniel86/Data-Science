@@ -10,6 +10,7 @@ dependencies:
   - jupyterlab
   - plotly<6
   - matplotlib
+  - scikit-learn
   - pip
   - pip:
       - cufflinks==0.17.3
