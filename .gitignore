@@ -221,3 +221,6 @@ __marimo__/
 
 # Homework-related .ipynb files
 *homework*.ipynb
+
+# Exported visualizations
+*.png
